@@ -5,8 +5,8 @@ Passionate about **development**, **security**, and exploring new innovations in
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouraou-mohamed-abdelillah-0879a426a/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelillah.ouraou@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouraou-mohamed-abdelillah-0879a426a/)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelillah.ouraou@gmail.com)  
+
 
 ---
 
@@ -15,5 +15,3 @@ Passionate about **development**, **security**, and exploring new innovations in
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abdelillah01&limit=5&theme=transparent&combine_all_yearly_contributions=true)
