@@ -1,6 +1,8 @@
-# I'm Abdelillah  
-I'm a **Software Engineering student** and an **enthusiast in Cybersecurity** and other areas of technology.  
-Passionate about **development**, **security**, and exploring new innovations in tech.  
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=I'm+Abdelillah;Software+Engineering+Student;Cybersecurity+Enthusiast;Passionate+about+Development+and+AI)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
