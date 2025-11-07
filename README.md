@@ -10,8 +10,10 @@ Passionate about **development**, **security**, and exploring new innovations in
 
 ---
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouraou-mohamed-abdelillah-0879a426a/)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelillah.ouraou@gmail.com)  
+##  Contact Me
+-  Email: [abdelillah.ouraou@gmail.com](mailto:abdelillah.ouraou@gmail.com)  
+-  LinkedIn: [Mohamed Abdelillah Ouraou](https://www.linkedin.com/in/ouraou-mohamed-abdelillah-0879a426a/)
+-  GitHub: [yourusername](https://github.com/abdelillah01)
 
 
 ---
