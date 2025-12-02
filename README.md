@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=600&size=34&duration=3500&pause=1000&color=E5C07B&center=true&vCenter=true&width=700&lines=Mohamed+Abdelillah+Ouraou;Software+Engineer;Crafting+Beautiful+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=32&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=$+Hello+World;$+I'm+Mohamed+Abdelillah+Ouraou;$+Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 </div>
 
