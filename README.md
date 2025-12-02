@@ -1,8 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=32&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines$+I'm+Mohamed+Abdelillah+Ouraou;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=32&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=I'm+Mohamed+Abdelillah+Ouraou)](https://git.io/typing-svg)
 
 </div>
+
 
 
 I'm a **Software Engineering student** and an **enthusiast in Cybersecurity** and other areas of technology.  
