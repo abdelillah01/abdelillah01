@@ -26,7 +26,7 @@ Passionate about **development**, **security**, and exploring new innovations in
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelillah01&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=false)
 
 </div>
 
